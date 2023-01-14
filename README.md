@@ -1,2 +1,2 @@
-# Flickr-Client-App
-## Flickr Client App-Swift
+# Flickr Client App
+## Flickr Client App \w Swift
